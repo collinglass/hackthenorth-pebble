@@ -1,0 +1,17 @@
+{
+  "uuid": "8fed2532-bf1e-423b-924f-53c3ee4ae480",
+  "shortName": "hackthenorth",
+  "longName": "hackthenorth",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
