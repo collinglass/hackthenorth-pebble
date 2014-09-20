@@ -9,7 +9,10 @@
     "watchface": false
   },
   "appKeys": {
-    "dummy": 0
+    "KEY_START": 0,
+    "KEY_X": 0,
+    "KEY_Y": 1,
+    "KEY_Z": 2
   },
   "resources": {
     "media": []
